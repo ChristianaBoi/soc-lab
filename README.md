@@ -4,7 +4,7 @@ DESCRIPTION
 This repository documents my Security Operations center {SOC} lab activities, focusing on monitoring, detecting, and responding to security incidents in a simulated environment.
 
 OBJECTIVES
--Analyze security ecents and logs
+-Analyze security events and logs
 -Identify potential threats and suspicious activity
 -Practice incident response procedures
 -Develop hands-on SOC analyst skills
